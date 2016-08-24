@@ -1,0 +1,35 @@
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.exe.config
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.exe
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.pdb
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.dll
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.csprojResolveAssemblyReference.cache
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.PDFManipulator.resources
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.Properties.Resources.resources
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.csproj.GenerateResource.Cache
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.exe
+D:\Documents\Microsoft Visual Studio 2010\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.exe.config
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.exe
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.PDFManipulator.resources
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.Properties.Resources.resources
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\obj\Release\PDFManipulator.csproj.GenerateResource.Cache
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.exe
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PDFManipulator.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.xml
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.Rendering.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.Charting.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.DocumentObjectModel.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.DocumentObjectModel.xml
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.Rendering.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\MigraDoc.Rendering.xml
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.Charting.pdb
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\PdfSharp.Charting.xml
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\Stephen\Documents\Visual Studio 2015\Projects\PDFManipulator\PDFManipulator\bin\Release\de\PdfSharp.Charting.resources.dll
